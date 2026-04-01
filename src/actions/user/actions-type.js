@@ -1,0 +1,10 @@
+export const GET_USER = "GET_USER";
+export const GET_USER_LOADING = "GET_USER_LOADING";
+export const GET_USER_FAILURE = "GET_USER_FAILURE";
+export const UPLOAD_PICTURE = "UPLOAD_PICTURE";
+export const FOLLOW_USER = "FOLLOW_USER";
+export const UNFOLLOW_USER = "UNFOLLOW_USER";
+export const UPDATE_BIO = "UPDATE_BIO";
+export const LIKE_POST_USER = "LIKE_POST_USER";
+export const UNLIKE_POST_USER = "UNLIKE_POST_USER";
+export const GET_USER_ERRORS = "GET_USER_ERRORS";
